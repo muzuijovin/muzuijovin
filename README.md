@@ -17,7 +17,7 @@ I build web apps with **TypeScript, React, Next.js, Node.js, and Express**, curr
 | **SportTicketing** | Sport event ticketing platform (team project). I built event management and the transaction flow. | Next.js, Express, PostgreSQL, Prisma | [Demo](https://jovlen-event-sport-ticketing.vercel.app) |
 | **Pinkara Studio** | Storefront website for a flower shop | Next.js | [Demo](https://pinkara-studio.vercel.app) |
 | **Personal Website** | My portfolio and profile site | TypeScript, Next.js | [Demo](https://jovin-personal-website.vercel.app) |
-| **Kopi Nusa** | Company profile website for a coffee brand | React | — |
+| **Kopi Nusa** | Company profile website for a coffee brand | React | [Demo](https://kopi-nusa-company-profile.vercel.app) |
 
 ---
 
