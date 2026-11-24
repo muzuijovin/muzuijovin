@@ -13,6 +13,7 @@ I build web apps with **TypeScript, React, Next.js, Node.js, and Express**, curr
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
+| **Laundry Web App** 🚧 | Laundry management web app, Purwadhika final project (team of 3). **In progress**: I'm building driver & worker attendance, driver management, and worker management. | Next.js, TypeScript | In progress |
 | **SportTicketing** | Sport event ticketing platform (team project). I built event management and the transaction flow. | Next.js, Express, PostgreSQL, Prisma | [Demo](https://jovlen-event-sport-ticketing.vercel.app) |
 | **Pinkara Studio** | Storefront website for a flower shop | Next.js | [Demo](https://pinkara-studio.vercel.app) |
 | **Personal Website** | My portfolio and profile site | TypeScript, Next.js | [Demo](https://jovin-personal-website.vercel.app) |
